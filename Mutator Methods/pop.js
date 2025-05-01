@@ -3,4 +3,4 @@ const pop = array.pop();
 console.log(pop);
 console.log(array); // [1,2,3,4]
 
-// removes the last element from the 
+// removes the last element from the array and return it.
